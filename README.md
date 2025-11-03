@@ -5,6 +5,8 @@ Versão do mine: 1.21.10
 
 Fabric: https://fabricmc.net/use/installer/
 
+porta:25565
+
 
 Como instalar: 
 1. Instale o Fabric para a versão do minecraft 1.21.10
