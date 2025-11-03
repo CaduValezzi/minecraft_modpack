@@ -1,14 +1,19 @@
-# Modpack do cadu
-Olá bem vindo ao meu modspack, esse modpack utiliza o Fabric
+# Modpack Cari
+Este mod pack usa tem os seguintes o pré-requisitos:
 
-Versão do mine: 1.21.10
+  - Versão do Minecraft: 1.21.10
+  - Mod Loader [Fabric](https://fabricmc.net/use/installer/)
+  - [Radmin VPN](https://www.radmin-vpn.com/)
+  
+## Precisa configurar para jogar no servidor?
 
-Fabric: https://fabricmc.net/use/installer/
+### Caso sim...
 
-porta:25565
+[Clique aqui para aprender as configurações necessárias](https://github.com/CaduValezzi/minecraft_modpack/wiki)
 
+> porta:25565
 
-Como instalar: 
-1. Instale o Fabric para a versão do minecraft 1.21.10
-2. Baixe a pasta mods e adicione os arquivos dentro dentro da pasta mods do seu instalador
+#### Se não...
+
+Só baixar essa pasta pra ter todos os mods utilizados... ai liberado pra jogar já!
 
