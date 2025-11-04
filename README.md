@@ -1,5 +1,5 @@
 # Modpack Cari
-Este mod pack usa tem os seguintes o pré-requisitos:
+Este mod pack usa tem os seguintes pré-requisitos:
 
   - Versão do Minecraft: 1.21.10
   - Mod Loader [Fabric](https://fabricmc.net/use/installer/)
