@@ -1,4 +1,4 @@
-# Modpack Cari
+# Modpack
 Este mod pack usa tem os seguintes pré-requisitos:
 
   - Versão do Minecraft: 1.21.10
